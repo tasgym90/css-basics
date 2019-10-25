@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box:
+}
+.opening {
+  color: red;
+  width: 50%;
+  }
+img {
+  border: 2px dashed orange;
+  width: 25%;
+}
